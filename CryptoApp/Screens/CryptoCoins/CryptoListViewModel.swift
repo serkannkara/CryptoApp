@@ -10,7 +10,6 @@ import RxSwift
 import RxCocoa
 import Kingfisher
 import Differentiator
-import RxDataSources
 
 
 final class CryptoListViewModel {

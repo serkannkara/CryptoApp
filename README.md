@@ -21,7 +21,6 @@ pod 'Alamofire'
 pod 'Charts'
 
 pod install
-
 ```
 
 

@@ -25,6 +25,7 @@ pod install
 ```
 
 Crypto API: [link](https://www.coingecko.com/tr)
+
 News API: [link](https://newsapi.org)
 
 ## Gallery

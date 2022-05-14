@@ -16,12 +16,10 @@ class NewsListViewModel {
     var newsService: CryptoServiceProtocol
     var page = 2
     let cryptoNews: BehaviorSubject<[CryptoNewsPresentation]> = .init(value: [])
-    
     let loading: Observable<Bool>
     var loadPageTrigger: PublishSubject<Void>
     var loadNextPageTrigger: PublishSubject<Void>
     var loadingIndicator: ActivityIndicator!
-    
     private let error = PublishSubject<Swift.Error>()
     
     private let disposeBag = DisposeBag()

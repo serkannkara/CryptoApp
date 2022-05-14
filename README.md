@@ -1,10 +1,11 @@
 # CryptoApp
 
-Hello! This is my new project CryptoApp. Project has made with Reactive Programming(Rxswift). Project shows the all crypto currency. Project shows the new crypto curency news.
+Hello! This is my new project CryptoApp. Project has made with Reactive Programming(Rxswift). Project shows the all crypto currency and shows the new crypto curency news.
 
 ## Features
 
 - Programatically UI
+- MVVM design pattern
 - Rxswift
 - Alamofire
 - Kingfisher
